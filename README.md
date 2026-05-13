@@ -126,6 +126,6 @@ MIT License — feel free to use or learn from this project
 ## 🙋 Author
 Tarun Nixon
 
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/n-tarun09/)
+LinkedIn: https://www.linkedin.com/in/n-tarun09/
 
-GitHub: [github.com/yourusername](https://github.com/NTarun-111)
+GitHub: https://github.com/NTarun-111
